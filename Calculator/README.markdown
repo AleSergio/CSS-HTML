@@ -1,2 +1,2 @@
 # Simple Calculator
-![Calculator](image/calculator.jpg)
+![Calculator](image/Calculator.jpg)
