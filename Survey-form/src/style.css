@@ -1,0 +1,77 @@
+body{
+  background-color: #099;
+  font-size: 15px;
+  text-align: center;
+  font-family: Calibri;
+  min-width: 320px;
+}
+
+h1{
+  font-size: 3rem; 
+}
+
+p{
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: inline-block;
+  text-align:left;
+  width: 65%
+}
+
+#form-outer{
+  background-color: white;
+  border-radius: 1%;
+  padding: 10px;
+  width: 50%;
+  display: inline-block;
+  text-align: right;
+}
+
+.labels{
+  display: inline-block;
+  text-align: right;
+  width: 30%;
+  vertical-align: top;
+  padding: 10px;
+}
+
+.rightTab{
+  display: inline-block;
+  text-align: left;
+  width: 50%;
+  vertical-align: middle;
+  padding: 10px;
+}
+
+.radio{
+  position: relative;
+  left: -43px;
+  bottom: 17px;
+  display: block;
+  padding-bottom: 1px;
+}
+
+#number{
+  width: 36%;
+}
+
+#submit{
+  position: relative;
+  right: 400px;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  color: white;
+  height: 40px;
+  width: 100px;
+  background-color: #5809;
+}
+
+.userRatings{
+  float: left;
+}
+
+#preferences{
+  position: relative;
+  right: 50px;
+  bottom: 15px;
+}
